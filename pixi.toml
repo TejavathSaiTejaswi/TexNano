@@ -1,0 +1,19 @@
+[project]
+name = "pixi-texnano"
+version = "0.1.0"
+description = "ML env setup with wandb and pixi"
+authors = ["Tejavath Sai Tejaswi  <tejavath.saitejaswi@gmail.com>"]
+channels = ["conda-forge"]
+platforms = ["win-64", "osx-64", "osx-arm64", "linux-64"]
+readme = "README.md"
+
+
+[tasks]
+mlops_task = 'python .\mlops_task.py'
+
+[dependencies]
+scikit-learn = ">=1.4.1.post1,<1.4.2"
+matplotlib = ">=3.8.3,<3.9"
+optuna = ">=3.5.0,<3.6"
+wandb = ">=0.16.3,<0.17"
+plotly = ">=5.19.0,<5.20"
