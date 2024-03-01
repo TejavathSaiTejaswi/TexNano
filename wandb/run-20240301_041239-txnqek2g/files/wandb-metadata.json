@@ -1,0 +1,53 @@
+{
+    "os": "Windows-11-10.0.22621-SP0",
+    "python": "3.12.2",
+    "heartbeatAt": "2024-02-29T22:42:41.194249",
+    "startedAt": "2024-02-29T22:42:39.768286",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\Abhishek\\Teja\\TexNano\\mlops_task.py",
+    "codePathLocal": "mlops_task.py",
+    "codePath": "mlops_task.py",
+    "git": {
+        "remote": "https://github.com/TejavathSaiTejaswi/TexNano.git",
+        "commit": "0e7636420c3fe4ce197376e809dfd343ca024d9f"
+    },
+    "email": "katakdhond.abhi@gmail.com",
+    "root": "C:/Users/Abhishek/Teja/TexNano",
+    "host": "Lenovo-Abhi",
+    "username": "Abhishek",
+    "executable": "C:\\Users\\Abhishek\\Teja\\TexNano\\.pixi\\envs\\default\\python.EXE",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2496.0,
+        "min": 0.0,
+        "max": 2496.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2496.0,
+            "min": 0.0,
+            "max": 2496.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 475.69237899780273,
+            "used": 422.64653396606445
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1650",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 7.909843444824219
+    }
+}

@@ -1,0 +1,12 @@
+
+[I 2024-03-01 04:12:41,586] A new study created in memory with name: no-name-f57ba275-d0df-4f08-94ad-070ceb145605
+Image Data Shape (1797, 64)
+Label Data Shape (1797,)
+[I 2024-03-01 04:12:44,797] Trial 0 finished with value: 0.9499744729121471 and parameters: {'penality': 'l1', 'inverse_of_regularization_strength': 0.5822905326964639, 'fit_intercept': True, 'intercept_scaling': 0.7702871285395447}. Best is trial 0 with value: 0.9499744729121471.
+Warning: Empty plot at step 0
+Image Data Shape (1797, 64)
+Label Data Shape (1797,)
+Image Data Shape (1797, 64)
+Label Data Shape (1797,)
+[I 2024-03-01 04:19:06,756] Trial 1 finished with value: 0.9520578062454804 and parameters: {'penality': 'l1', 'inverse_of_regularization_strength': 0.6766122372803142, 'fit_intercept': True, 'intercept_scaling': 0.46747605625754063}. Best is trial 1 with value: 0.9520578062454804.
+C:\Users\Abhishek\Teja\TexNano\.pixi\envs\default\Lib\site-packages\sklearn\linear_model\_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
